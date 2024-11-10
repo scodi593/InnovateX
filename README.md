@@ -63,8 +63,6 @@ Event Hunt is a comprehensive event management platform where admins can easily 
         ```
 3. Now run the application on the localhost.
 
-```
-
 
 
 
